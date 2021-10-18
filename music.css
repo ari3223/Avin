@@ -3,6 +3,7 @@ body{
   display: flex;
    align-item: center;
    justify-content: center;
+  padding:200px
 }
 .heart {
   width: 100px;
