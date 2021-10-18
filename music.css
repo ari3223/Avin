@@ -1,5 +1,8 @@
 body{
   text-align: center;
+  display: flex;
+   align-item: center;
+   justify-content: center;
 }
 .heart {
   width: 100px;
